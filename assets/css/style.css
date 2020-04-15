@@ -1,0 +1,24 @@
+body {
+  padding: 2rem;
+  background-color: #a4c5c6;
+  height: 100vh;
+  width: 100vw;
+}
+
+div {
+  margin: 0;
+}
+
+#animals div {
+  padding: 1rem;
+  background-color: #d4ebd0;
+  border: 2px solid #ffeb99;
+  color: #856c8b;
+  border-radius: 1rem;
+}
+
+#animals img {
+  width: 100%;
+  padding: 1rem;
+}
+/*# sourceMappingURL=style.css.map */
